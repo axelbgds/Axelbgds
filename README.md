@@ -1,6 +1,5 @@
 Bonjour 👋 !
 
-Bonjour 👋 !
 🔭 Qui suis-je ?
 Je suis actuellement profesionnel de la data me formant sur les compétences web.
 
