@@ -18,12 +18,7 @@ Le Data Engineering : je pense préparer un titre d'Etat plus tard dans ce domai
 ... et continuer à expérimenter tous les domaines d'application liés à l'IA
 
 
-👯 Peux-t-on collaborer ?
-Pourquoi pas, tant que je continue à travailler l'essentiel de mon temps chez moi 👼.
-
-Je ne recherche pas de CDI, mais si c'était le cas ce serait pour une entreprise à mission d'intérêt général : open source, éducation, écologie, lutte contre la pauvreté ou le racisme ...
-
 📫 Comment me contacter ?
-Essentiellement sur LinkedIn pour des opportunités professionnelles, mais pourquoi pas sous forme d'issues dans ce dépôt Git ?
+N'hésitez pas à entrer en contact avec moi sur linkedin : https://www.linkedin.com/in/axelbgd/
 
 J'aime apprendre et sortir de ma zone de confort !
