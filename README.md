@@ -31,5 +31,5 @@
 ![AXelbgds's github stats](https://github-readme-stats.vercel.app/api?username=axelbgds&show_icons=true)
 
 
-📫 How you can contact me : Go to my Linkedin page : https://www.linkedin.com/in/axelbgd/
+📫 How you can contact me : Go to my <a href="https://www.linkedin.com/in/axelbgd/">Linkedin</a>
 
