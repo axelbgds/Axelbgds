@@ -27,8 +27,8 @@
 
 ## 📊 GitHub statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PapyMonkey)](https://github.com/anuraghazra/github-readme-stats)
-![PapyMonkey's github stats](https://github-readme-stats.vercel.app/api?username=axelbgds&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelbgds)](https://github.com/anuraghazra/github-readme-stats)
+![AXelbgds's github stats](https://github-readme-stats.vercel.app/api?username=axelbgds&show_icons=true)
 
 
 📫 Comment me contacter ?
