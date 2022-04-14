@@ -18,7 +18,7 @@
     <div class="row">
       <div class="col">
           <a href="https://profile.intra.42.fr/users/abeaugra">
-            <img src="https://badge42.vercel.app/api/v2/cl1yxc14p006909magcp8ojlw/stats?cursusId=21&coalitionId=106" alt="abeaugra's 42 stats" />
+            <img src="https://badge42.vercel.app/api/v2/cl1yxc14p006909magcp8ojlw/stats?cursusId=21&coalitionId=116" alt="abeaugra's 42 stats" />
           </a>
       </div>
     </div>
