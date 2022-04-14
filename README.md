@@ -18,7 +18,7 @@
     <div class="row">
       <div class="col">
           <a href="https://profile.intra.42.fr/users/abeaugra">
-            <img src="https://badge42.vercel.app/api/v2/cl1m1z528009409l5bo2ovzih/stats?cursusId=21&coalitionId=116" alt="abeaugra's 42 stats" />
+            <img src="https://badge42.vercel.app/api/v2/cl1yxc14p006909magcp8ojlw/stats?cursusId=21&coalitionId=106" alt="abeaugra's 42 stats" />
           </a>
       </div>
     </div>
@@ -30,26 +30,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PapyMonkey)](https://github.com/anuraghazra/github-readme-stats)
 ![PapyMonkey's github stats](https://github-readme-stats.vercel.app/api?username=axelbgds&show_icons=true)
-
-
-
-
-🔭 Qui suis-je ?
-
-
-En qualité de Data Analyste, voici ce que je suis capable de produire, en analyse de données :
-Maîtrise de la solution Qlik ;
-Analyse univariée et bivariée ;
-Tests de Student, Bartlett, Chi² ;
-Algorithmes d'apprentissage supervisé : régression linéaire, régression logistique, K-nn et arbres de décision ;
-
-🌱 Qu'est-ce que je fais de beau actuellement ?
-Je passe mon bachelor développeur d'application web au sein de Studi.
-
-Mes sujets d'intérêts pour 2021-2023 sont les suivants :
-La Data Visualization (essentiellement en "no code"), avec un passage de certification sur Power BI - Tableau
-Le Data Engineering : je pense préparer un titre d'Etat plus tard dans ce domaine
-... et continuer à expérimenter tous les domaines d'application liés à l'IA
 
 
 📫 Comment me contacter ?
