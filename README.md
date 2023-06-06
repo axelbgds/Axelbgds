@@ -6,13 +6,15 @@
 ## 👨‍🎓 42 Cursus
 
 <html lang="en">
-  
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+  </head>
   <div class="container">
     <div class="row">
       <div class="col">
-          <a href="https://profile.intra.42.fr/users/abeaugra">
-            <img src="https://badge42.vercel.app/api/v2/cl1yxc14p006909magcp8ojlw/stats?cursusId=21&coalitionId=116" alt="abeaugra's 42 stats" />
-          </a>
+          
       </div>
     </div>
 </div>
