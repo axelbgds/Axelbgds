@@ -14,7 +14,7 @@
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 
-</head>
+</head>  
 
 </html>
 
@@ -22,6 +22,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=axelbgds)
 
-[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=axelbgds&hide_border=true)](https://github.com/axelbgds)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelbgds)](https://github.com/axelbgds)
 
 📫 How you can contact me : Go to my <a href="https://www.linkedin.com/in/axelbgd/">Linkedin</a>
