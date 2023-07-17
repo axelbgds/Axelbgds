@@ -22,6 +22,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=axelbgds)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelbgds)](https://github.com/axelbgds)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelbgds&layout=compact)
 
 📫 How you can contact me : Go to my <a href="https://www.linkedin.com/in/axelbgd/">Linkedin</a>
