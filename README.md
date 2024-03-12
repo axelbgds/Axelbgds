@@ -24,4 +24,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelbgds&layout=compact)
 
-📫 How you can contact me : Go to my <a href="https://www.linkedin.com/in/axelbgd/">Linkedin</a>
+📫 How you can contact me : Go to my <a href="https://www.linkedin.com/in/axelbgds/">Linkedin</a>
